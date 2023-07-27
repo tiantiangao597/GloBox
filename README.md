@@ -9,7 +9,9 @@ GloBox is primarily known amongst its customer base for boutique fashion items a
 **A/B Test Setup**
 
 The Growth team decides to run an A/B test that highlights key products in the **food and drink category as a banner** at the top of the website. 
+
 A - The control group does not see the banner
+
 B - The test group sees the banner
 
 The setup of the A/B test is as follows:
