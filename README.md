@@ -1,7 +1,7 @@
 # GloBox <img width="96" alt="GloBox Logo" src="https://github.com/tiantiangao597/GloBox/assets/50714997/06078c31-ead5-4940-8793-1be218cb7eb1">
 
 
-Analyze the results of an A/B test and create a report of data-driven recommendation for GloBox. 
+Analyze the results of an A/B test and create a report of data-driven recommendations for GloBox. 
 
 GloBox is an online marketplace that specializes in sourcing unique and high-quality products from around the world.
 
@@ -11,7 +11,7 @@ GloBox is primarily known amongst its customer base for boutique fashion items a
 
 The Growth team decides to run an A/B test that highlights key products in the **food and drink category as a banner** at the top of the website. 
 
-A - The control group does not see the banner                                  B - The test group sees the banner
+A - The control group does not see the banner                                                             B - The test group sees the banner
 
 <img width="660" alt="A:B Test Set Up" src="https://github.com/tiantiangao597/GloBox/assets/50714997/035aea7d-01c4-425d-a4da-22a03a457ad2">
 
@@ -29,5 +29,6 @@ A - The control group does not see the banner                                  B
 <img width="673" alt="Dataset Overview" src="https://github.com/tiantiangao597/GloBox/assets/50714997/77971443-c685-415a-8bb6-a89594c7f7f6">
 
 **Recommendation Summary:**
+
 <img width="604" alt="recommandation summary" src="https://github.com/tiantiangao597/GloBox/assets/50714997/d6bbea6f-acc5-40dd-8981-627e8031d148">
 
