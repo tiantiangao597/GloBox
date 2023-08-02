@@ -26,6 +26,7 @@ A - The control group does not see the banner                                   
    <img width="671" alt="conversion" src="https://github.com/tiantiangao597/GloBox/assets/50714997/6a415077-be3c-465c-ae39-474d94972cb7">
 
 **GloBox Dataset Overview:**
+
 <img width="673" alt="Dataset Overview" src="https://github.com/tiantiangao597/GloBox/assets/50714997/77971443-c685-415a-8bb6-a89594c7f7f6">
 
 **Recommendation Summary:**
